@@ -1,7 +1,7 @@
 # PrivateValues
 
 A simple tool to encrypt and manage secrets in open-source projects.
-
+## SHIT BY GEMINI
 ## Features
 
 *   Strong encryption for your secrets.
