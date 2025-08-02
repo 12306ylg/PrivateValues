@@ -1,0 +1,3 @@
+[console_scripts]
+privatevalues = privatevalues.cli:main
+privatevalues-gui = privatevalues.gui:main

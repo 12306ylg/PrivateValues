@@ -1,0 +1,13 @@
+README.md
+setup.py
+privatevalues/__init__.py
+privatevalues/cli.py
+privatevalues/core.py
+privatevalues/gui.py
+privatevalues.egg-info/PKG-INFO
+privatevalues.egg-info/SOURCES.txt
+privatevalues.egg-info/dependency_links.txt
+privatevalues.egg-info/entry_points.txt
+privatevalues.egg-info/requires.txt
+privatevalues.egg-info/top_level.txt
+tests/test_privatevalues.py
